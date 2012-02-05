@@ -1,0 +1,51 @@
+TSerial
+v7
+r1
+
+N/Users/sathish/Desktop/Archive/Serial/MainWindow.xib
+c000000004CDA2C5C0000000000004E1D
+t1289366620
+s19997
+
+N/Users/sathish/Desktop/Archive/Serial/SerialViewController.xib
+c000000004CDA3C920000000000007F51
+t1289370770
+s32593
+
+N/Users/sathish/Desktop/Archive/Serial/build/Debug/Serial.app
+t2
+s0
+
+N/Users/sathish/Desktop/Archive/Serial/build/Debug/Serial.app/Contents/Info.plist
+t2
+s0
+
+N/Users/sathish/Desktop/Archive/Serial/build/Debug/Serial.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/sathish/Desktop/Archive/Serial/build/Debug/Serial.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/sathish/Desktop/Archive/Serial/build/Debug/Serial.app/Contents/Resources/SerialViewController.nib
+t2
+s0
+
+NSerial-Info.plist
+c000000004CDA2C5C000000000000038D
+t1289366620
+s909
+
+CCompileXIB /Users/sathish/Desktop/Archive/Serial/MainWindow.xib
+r0
+
+CCompileXIB /Users/sathish/Desktop/Archive/Serial/SerialViewController.xib
+r0
+
+CProcessInfoPlistFile /Users/sathish/Desktop/Archive/Serial/build/Debug/Serial.app/Contents/Info.plist Serial-Info.plist
+r0
+
+CTouch /Users/sathish/Desktop/Archive/Serial/build/Debug/Serial.app
+r0
+

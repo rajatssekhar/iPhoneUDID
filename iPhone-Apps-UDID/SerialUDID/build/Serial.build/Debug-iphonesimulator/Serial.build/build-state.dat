@@ -1,0 +1,802 @@
+TSerial
+v7
+r0
+t320508806.031529
+cCheck dependencies
+cProcessInfoPlistFile /Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator/Serial.app/Info.plist Serial-Info.plist
+cCompileXIB /Users/sathish/Desktop/Archive/Serial/MainWindow.xib
+cCompileXIB /Users/sathish/Desktop/Archive/Serial/SerialViewController.xib
+cProcessPCH /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Serial_Prefix-gsxaxmcyynqlhycbfcuuibvewuzt/Serial_Prefix.pch.gch Serial_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/main.o /Users/sathish/Desktop/Archive/Serial/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/SerialAppDelegate.o /Users/sathish/Desktop/Archive/Serial/Classes/SerialAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/SerialViewController.o /Users/sathish/Desktop/Archive/Serial/Classes/SerialViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/UIDevice+serialNumber.o /Users/sathish/Desktop/Archive/Serial/Classes/UIDevice+serialNumber.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator/Serial.app/Serial normal i386
+cGenerateDSYMFile /Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator/Serial.app.dSYM /Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator/Serial.app/Serial
+cTouch /Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator/Serial.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004CFEF1000000000000000132
+t1291776256
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIDevice.h
+c000000004C0470BB000000000000126F
+t1275359419
+s4719
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/dlfcn.h
+c000000004AB98DF40000000000000B1C
+t1253674484
+s2844
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/kern_return.h
+c000000004A73D65300000000000023B2
+t1249105491
+s9138
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/port.h
+c000000004A73D6540000000000002E69
+t1249105492
+s11881
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIDevice.h
+c000000004CC1282100000000000014D5
+t1287727137
+s5333
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/dlfcn.h
+c000000004AB98DF40000000000000B1C
+t1253674484
+s2844
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/mach/kern_return.h
+c000000004CBFACAC00000000000023B2
+t1287629996
+s9138
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/mach/port.h
+c000000004CBFACAC0000000000002E69
+t1287629996
+s11881
+
+N/Users/pandiansiva/Downloads/Serial/Classes/SerialAppDelegate.h
+c000000004CDA2C5C00000000000001D7
+t1289366620
+s471
+i<UIKit/UIKit.h>
+
+N/Users/pandiansiva/Downloads/Serial/Classes/SerialAppDelegate.m
+c000000004CDA2C5C0000000000000A84
+t1289366620
+s2692
+i"SerialAppDelegate.h"
+i"SerialViewController.h"
+
+N/Users/pandiansiva/Downloads/Serial/Classes/SerialViewController.h
+c000000004CDA3ABE0000000000000113
+t1289370302
+s275
+i<UIKit/UIKit.h>
+
+N/Users/pandiansiva/Downloads/Serial/Classes/SerialViewController.m
+c000000004CDA3C5200000000000010CC
+t1289370706
+s4300
+i"SerialViewController.h"
+i<dlfcn.h>
+i<mach/port.h>
+i<mach/kern_return.h>
+
+N/Users/pandiansiva/Downloads/Serial/Classes/UIDevice+serialNumber.h
+c000000004C84E48A000000000000057F
+t1283777674
+s1407
+i<UIKit/UIDevice.h>
+
+N/Users/pandiansiva/Downloads/Serial/Classes/UIDevice+serialNumber.m
+c000000004C84E48A0000000000000663
+t1283777674
+s1635
+i"UIDevice+serialNumber.h"
+i<dlfcn.h>
+i<mach/port.h>
+i<mach/kern_return.h>
+
+N/Users/pandiansiva/Downloads/Serial/MainWindow.xib
+c000000004CDA2C5C0000000000004E1D
+t1289366620
+s19997
+
+N/Users/pandiansiva/Downloads/Serial/SerialViewController.xib
+c000000004CDA3C920000000000007F51
+t1289370770
+s32593
+
+N/Users/pandiansiva/Downloads/Serial/Serial_Prefix.pch
+c000000004CDA2C5C00000000000000B5
+t1289366620
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pandiansiva/Downloads/Serial/build/Debug-iphonesimulator/Serial.app
+t1293950793
+s238
+
+N/Users/pandiansiva/Downloads/Serial/build/Debug-iphonesimulator/Serial.app.dSYM
+t1293950793
+s102
+
+N/Users/pandiansiva/Downloads/Serial/build/Debug-iphonesimulator/Serial.app/Info.plist
+t1289366685
+s587
+
+N/Users/pandiansiva/Downloads/Serial/build/Debug-iphonesimulator/Serial.app/MainWindow.nib
+t1289366688
+s1121
+
+N/Users/pandiansiva/Downloads/Serial/build/Debug-iphonesimulator/Serial.app/PkgInfo
+t1289366685
+s8
+
+N/Users/pandiansiva/Downloads/Serial/build/Debug-iphonesimulator/Serial.app/Serial
+t1293950793
+s18712
+
+N/Users/pandiansiva/Downloads/Serial/build/Debug-iphonesimulator/Serial.app/SerialViewController.nib
+t1289370776
+s2620
+
+N/Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/Serial.LinkFileList
+c000000004D201F480000000000000202
+t1293950792
+s514
+
+N/Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/SerialAppDelegate.o
+t1293950793
+s47784
+
+N/Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/SerialViewController.o
+t1293950793
+s41736
+
+N/Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/UIDevice+serialNumber.o
+t1293950793
+s9928
+
+N/Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/main.o
+t1293950793
+s6296
+
+N/Users/pandiansiva/Downloads/Serial/main.m
+c000000004CDA2C5C0000000000000166
+t1289366620
+s358
+i<UIKit/UIKit.h>
+
+N/Users/satheesan/Desktop/Serial/Classes/SerialAppDelegate.h
+c000000004CDA2C5C00000000000001D7
+t1289366620
+s471
+i<UIKit/UIKit.h>
+
+N/Users/satheesan/Desktop/Serial/Classes/SerialAppDelegate.m
+c000000004CDA2C5C0000000000000A84
+t1289366620
+s2692
+i"SerialAppDelegate.h"
+i"SerialViewController.h"
+
+N/Users/satheesan/Desktop/Serial/Classes/SerialViewController.h
+c000000004CDA3ABE0000000000000113
+t1289370302
+s275
+i<UIKit/UIKit.h>
+
+N/Users/satheesan/Desktop/Serial/Classes/SerialViewController.m
+c000000004CDA3C5200000000000010CC
+t1289370706
+s4300
+i"SerialViewController.h"
+i<dlfcn.h>
+i<mach/port.h>
+i<mach/kern_return.h>
+
+N/Users/satheesan/Desktop/Serial/Classes/UIDevice+serialNumber.h
+c000000004C84E48A000000000000057F
+t1283777674
+s1407
+i<UIKit/UIDevice.h>
+
+N/Users/satheesan/Desktop/Serial/Classes/UIDevice+serialNumber.m
+c000000004C84E48A0000000000000663
+t1283777674
+s1635
+i"UIDevice+serialNumber.h"
+i<dlfcn.h>
+i<mach/port.h>
+i<mach/kern_return.h>
+
+N/Users/satheesan/Desktop/Serial/MainWindow.xib
+c000000004CDA2C5C0000000000004E1D
+t1289366620
+s19997
+
+N/Users/satheesan/Desktop/Serial/SerialViewController.xib
+c000000004CDA3C920000000000007F51
+t1289370770
+s32593
+
+N/Users/satheesan/Desktop/Serial/Serial_Prefix.pch
+c000000004CDA2C5C00000000000000B5
+t1289366620
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator/Serial.app
+t1289370776
+s238
+
+N/Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator/Serial.app.dSYM
+t1289370707
+s102
+
+N/Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator/Serial.app/Info.plist
+t1289366685
+s587
+
+N/Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator/Serial.app/MainWindow.nib
+t1289366688
+s1121
+
+N/Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator/Serial.app/PkgInfo
+t1289366685
+s8
+
+N/Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator/Serial.app/Serial
+t1289370707
+s18680
+
+N/Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator/Serial.app/SerialViewController.nib
+t1289370776
+s2620
+
+N/Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/Serial.LinkFileList
+c000000004CDA349C00000000000001F2
+t1289368732
+s498
+
+N/Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/SerialAppDelegate.o
+t1289370502
+s47776
+
+N/Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/SerialViewController.o
+t1289370707
+s41728
+
+N/Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/UIDevice+serialNumber.o
+t1289368732
+s9920
+
+N/Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/main.o
+t1289366693
+s6288
+
+N/Users/satheesan/Desktop/Serial/main.m
+c000000004CDA2C5C0000000000000166
+t1289366620
+s358
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Desktop/Archive/Serial/Classes/SerialAppDelegate.h
+c000000004CDA2C5C00000000000001D7
+t1289366620
+s471
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Desktop/Archive/Serial/Classes/SerialAppDelegate.m
+c000000004CDA2C5C0000000000000A84
+t1289366620
+s2692
+i"SerialAppDelegate.h"
+i"SerialViewController.h"
+
+N/Users/sathish/Desktop/Archive/Serial/Classes/SerialViewController.h
+c000000004D6A5C3C000000000000010E
+t1298816060
+s270
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Desktop/Archive/Serial/Classes/SerialViewController.m
+c000000004D6A5C3700000000000010C7
+t1298816055
+s4295
+i"SerialViewController.h"
+i<dlfcn.h>
+i<mach/port.h>
+i<mach/kern_return.h>
+
+N/Users/sathish/Desktop/Archive/Serial/Classes/UIDevice+serialNumber.h
+c000000004C84E48A000000000000057F
+t1283777674
+s1407
+i<UIKit/UIDevice.h>
+
+N/Users/sathish/Desktop/Archive/Serial/Classes/UIDevice+serialNumber.m
+c000000004C84E48A0000000000000663
+t1283777674
+s1635
+i"UIDevice+serialNumber.h"
+i<dlfcn.h>
+i<mach/port.h>
+i<mach/kern_return.h>
+
+N/Users/sathish/Desktop/Archive/Serial/MainWindow.xib
+c000000004CDA2C5C0000000000004E1D
+t1289366620
+s19997
+
+N/Users/sathish/Desktop/Archive/Serial/SerialViewController.xib
+c000000004CDA3C920000000000007F51
+t1289370770
+s32593
+
+N/Users/sathish/Desktop/Archive/Serial/Serial_Prefix.pch
+c000000004CDA2C5C00000000000000B5
+t1289366620
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator/Serial.app
+t1298816006
+s238
+
+N/Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator/Serial.app.dSYM
+t1298816005
+s102
+
+N/Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator/Serial.app/Info.plist
+t1289366685
+s587
+
+N/Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator/Serial.app/MainWindow.nib
+t1289366688
+s1121
+
+N/Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator/Serial.app/PkgInfo
+t1289366685
+s8
+
+N/Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator/Serial.app/Serial
+t1298816005
+s18728
+
+N/Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator/Serial.app/SerialViewController.nib
+t1289370776
+s2620
+
+N/Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/Serial.LinkFileList
+c000000004D6A5C04000000000000020A
+t1298816004
+s522
+
+N/Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/SerialAppDelegate.o
+t1298816005
+s50912
+
+N/Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/SerialViewController.o
+t1298816005
+s44844
+
+N/Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/UIDevice+serialNumber.o
+t1298816005
+s9932
+
+N/Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/main.o
+t1298816005
+s6300
+
+N/Users/sathish/Desktop/Archive/Serial/main.m
+c000000004CDA2C5C0000000000000166
+t1289366620
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/jS/jSzbYRTOEyC27JIN3Dj+sE+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Serial_Prefix-dmkbujqrsjwevwcjpnmhfytbfkve/Serial_Prefix.pch.gch
+t1289366692
+s15232016
+
+N/var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Serial_Prefix-gsxaxmcyynqlhycbfcuuibvewuzt/Serial_Prefix.pch.gch
+t1298816005
+s15453392
+
+N/var/folders/zC/zCQVdXlwH7ypYHgEP2pOA++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Serial_Prefix-eqfngcmkowfuwucvizdakgfpvlpf/Serial_Prefix.pch.gch
+t1293950793
+s15232016
+
+NSerial-Info.plist
+c000000004CDA2C5C000000000000038D
+t1289366620
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320508803#320508804#0(0"0(0#1#0"8629112608#0"0#
+
+CCompileC build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/SerialAppDelegate.o /Users/pandiansiva/Downloads/Serial/Classes/SerialAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315643593.250984
+e315643593.323907
+r1
+xCompileC
+xbuild/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/SerialAppDelegate.o
+x/Users/pandiansiva/Downloads/Serial/Classes/SerialAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/pandiansiva/Downloads/Serial/Classes/SerialAppDelegate.m315643593#315643593#0(0"0(0#0#63"/Users/pandiansiva/Downloads/Serial/Classes/SerialAppDelegate.m8615701824#1882"    cd /Users/pandiansiva/Downloads/Serial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-generated-files.hmap -I/Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-own-target-headers.hmap -I/Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-all-target-headers.hmap -iquote /Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-project-headers.hmap -F/Users/pandiansiva/Downloads/Serial/build/Debug-iphonesimulator -I/Users/pandiansiva/Downloads/Serial/build/Debug-iphonesimulator/include -I/Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/DerivedSources/i386 -I/Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/DerivedSources -include /var/folders/zC/zCQVdXlwH7ypYHgEP2pOA++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Serial_Prefix-eqfngcmkowfuwucvizdakgfpvlpf/Serial_Prefix.pch -c /Users/pandiansiva/Downloads/Serial/Classes/SerialAppDelegate.m -o /Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/SerialAppDelegate.o0#
+
+CCompileC build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/SerialAppDelegate.o /Users/satheesan/Desktop/Serial/Classes/SerialAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311063302.035856
+e311063302.279519
+r1
+xCompileC
+xbuild/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/SerialAppDelegate.o
+x/Users/satheesan/Desktop/Serial/Classes/SerialAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/satheesan/Desktop/Serial/Classes/SerialAppDelegate.m311063302#311063302#0(0"0(0#0#59"/Users/satheesan/Desktop/Serial/Classes/SerialAppDelegate.m8626545696#1838"    cd /Users/satheesan/Desktop/Serial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-generated-files.hmap -I/Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-own-target-headers.hmap -I/Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-all-target-headers.hmap -iquote /Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-project-headers.hmap -F/Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator -I/Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator/include -I/Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/DerivedSources/i386 -I/Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/DerivedSources -include /var/folders/jS/jSzbYRTOEyC27JIN3Dj+sE+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Serial_Prefix-dmkbujqrsjwevwcjpnmhfytbfkve/Serial_Prefix.pch -c /Users/satheesan/Desktop/Serial/Classes/SerialAppDelegate.m -o /Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/SerialAppDelegate.o0#
+
+CCompileC build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/SerialAppDelegate.o /Users/sathish/Desktop/Archive/Serial/Classes/SerialAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320508805.585524
+e320508805.714718
+r1
+xCompileC
+xbuild/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/SerialAppDelegate.o
+x/Users/sathish/Desktop/Archive/Serial/Classes/SerialAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/sathish/Desktop/Archive/Serial/Classes/SerialAppDelegate.m320508805#320508805#0(0"0(0#0#65"/Users/sathish/Desktop/Archive/Serial/Classes/SerialAppDelegate.m8627641632#1917"    cd /Users/sathish/Desktop/Archive/Serial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-generated-files.hmap -I/Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-own-target-headers.hmap -I/Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-all-target-headers.hmap -iquote /Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-project-headers.hmap -F/Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator -I/Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator/include -I/Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/DerivedSources/i386 -I/Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/DerivedSources -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Serial_Prefix-gsxaxmcyynqlhycbfcuuibvewuzt/Serial_Prefix.pch -c /Users/sathish/Desktop/Archive/Serial/Classes/SerialAppDelegate.m -o /Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/SerialAppDelegate.o0#
+
+CCompileC build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/SerialViewController.o /Users/pandiansiva/Downloads/Serial/Classes/SerialViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315643593.251716
+e315643593.324202
+r1
+xCompileC
+xbuild/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/SerialViewController.o
+x/Users/pandiansiva/Downloads/Serial/Classes/SerialViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/pandiansiva/Downloads/Serial/Classes/SerialViewController.m315643593#315643593#0(0"0(0#0#66"/Users/pandiansiva/Downloads/Serial/Classes/SerialViewController.m8615494432#1888"    cd /Users/pandiansiva/Downloads/Serial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-generated-files.hmap -I/Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-own-target-headers.hmap -I/Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-all-target-headers.hmap -iquote /Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-project-headers.hmap -F/Users/pandiansiva/Downloads/Serial/build/Debug-iphonesimulator -I/Users/pandiansiva/Downloads/Serial/build/Debug-iphonesimulator/include -I/Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/DerivedSources/i386 -I/Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/DerivedSources -include /var/folders/zC/zCQVdXlwH7ypYHgEP2pOA++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Serial_Prefix-eqfngcmkowfuwucvizdakgfpvlpf/Serial_Prefix.pch -c /Users/pandiansiva/Downloads/Serial/Classes/SerialViewController.m -o /Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/SerialViewController.o0#
+
+CCompileC build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/SerialViewController.o /Users/satheesan/Desktop/Serial/Classes/SerialViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311063507.199358
+e311063507.466130
+r1
+xCompileC
+xbuild/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/SerialViewController.o
+x/Users/satheesan/Desktop/Serial/Classes/SerialViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/satheesan/Desktop/Serial/Classes/SerialViewController.m311063507#311063507#0(0"0(0#0#62"/Users/satheesan/Desktop/Serial/Classes/SerialViewController.m8628202432#1844"    cd /Users/satheesan/Desktop/Serial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-generated-files.hmap -I/Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-own-target-headers.hmap -I/Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-all-target-headers.hmap -iquote /Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-project-headers.hmap -F/Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator -I/Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator/include -I/Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/DerivedSources/i386 -I/Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/DerivedSources -include /var/folders/jS/jSzbYRTOEyC27JIN3Dj+sE+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Serial_Prefix-dmkbujqrsjwevwcjpnmhfytbfkve/Serial_Prefix.pch -c /Users/satheesan/Desktop/Serial/Classes/SerialViewController.m -o /Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/SerialViewController.o0#
+
+CCompileC build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/SerialViewController.o /Users/sathish/Desktop/Archive/Serial/Classes/SerialViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320508805.676490
+e320508805.805203
+r1
+xCompileC
+xbuild/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/SerialViewController.o
+x/Users/sathish/Desktop/Archive/Serial/Classes/SerialViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/sathish/Desktop/Archive/Serial/Classes/SerialViewController.m320508805#320508805#0(0"0(0#0#68"/Users/sathish/Desktop/Archive/Serial/Classes/SerialViewController.m8627066560#1923"    cd /Users/sathish/Desktop/Archive/Serial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-generated-files.hmap -I/Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-own-target-headers.hmap -I/Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-all-target-headers.hmap -iquote /Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-project-headers.hmap -F/Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator -I/Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator/include -I/Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/DerivedSources/i386 -I/Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/DerivedSources -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Serial_Prefix-gsxaxmcyynqlhycbfcuuibvewuzt/Serial_Prefix.pch -c /Users/sathish/Desktop/Archive/Serial/Classes/SerialViewController.m -o /Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/SerialViewController.o0#
+
+CCompileC build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/UIDevice+serialNumber.o /Users/pandiansiva/Downloads/Serial/Classes/UIDevice+serialNumber.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315643593.252687
+e315643593.312263
+r1
+xCompileC
+xbuild/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/UIDevice+serialNumber.o
+x/Users/pandiansiva/Downloads/Serial/Classes/UIDevice+serialNumber.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/pandiansiva/Downloads/Serial/Classes/UIDevice+serialNumber.m315643593#315643593#0(0"0(0#0#67"/Users/pandiansiva/Downloads/Serial/Classes/UIDevice+serialNumber.m8614861376#1890"    cd /Users/pandiansiva/Downloads/Serial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-generated-files.hmap -I/Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-own-target-headers.hmap -I/Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-all-target-headers.hmap -iquote /Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-project-headers.hmap -F/Users/pandiansiva/Downloads/Serial/build/Debug-iphonesimulator -I/Users/pandiansiva/Downloads/Serial/build/Debug-iphonesimulator/include -I/Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/DerivedSources/i386 -I/Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/DerivedSources -include /var/folders/zC/zCQVdXlwH7ypYHgEP2pOA++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Serial_Prefix-eqfngcmkowfuwucvizdakgfpvlpf/Serial_Prefix.pch -c /Users/pandiansiva/Downloads/Serial/Classes/UIDevice+serialNumber.m -o /Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/UIDevice+serialNumber.o0#
+
+CCompileC build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/UIDevice+serialNumber.o /Users/satheesan/Desktop/Serial/Classes/UIDevice+serialNumber.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311061532.615050
+e311061532.914441
+r1
+xCompileC
+xbuild/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/UIDevice+serialNumber.o
+x/Users/satheesan/Desktop/Serial/Classes/UIDevice+serialNumber.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/satheesan/Desktop/Serial/Classes/UIDevice+serialNumber.m311061532#311061532#0(0"0(0#0#63"/Users/satheesan/Desktop/Serial/Classes/UIDevice+serialNumber.m8625341632#1846"    cd /Users/satheesan/Desktop/Serial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-generated-files.hmap -I/Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-own-target-headers.hmap -I/Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-all-target-headers.hmap -iquote /Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-project-headers.hmap -F/Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator -I/Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator/include -I/Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/DerivedSources/i386 -I/Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/DerivedSources -include /var/folders/jS/jSzbYRTOEyC27JIN3Dj+sE+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Serial_Prefix-dmkbujqrsjwevwcjpnmhfytbfkve/Serial_Prefix.pch -c /Users/satheesan/Desktop/Serial/Classes/UIDevice+serialNumber.m -o /Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/UIDevice+serialNumber.o0#
+
+CCompileC build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/UIDevice+serialNumber.o /Users/sathish/Desktop/Archive/Serial/Classes/UIDevice+serialNumber.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320508805.714821
+e320508805.777596
+r1
+xCompileC
+xbuild/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/UIDevice+serialNumber.o
+x/Users/sathish/Desktop/Archive/Serial/Classes/UIDevice+serialNumber.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/sathish/Desktop/Archive/Serial/Classes/UIDevice+serialNumber.m320508805#320508805#0(0"0(0#0#69"/Users/sathish/Desktop/Archive/Serial/Classes/UIDevice+serialNumber.m8622325696#1925"    cd /Users/sathish/Desktop/Archive/Serial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-generated-files.hmap -I/Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-own-target-headers.hmap -I/Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-all-target-headers.hmap -iquote /Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-project-headers.hmap -F/Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator -I/Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator/include -I/Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/DerivedSources/i386 -I/Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/DerivedSources -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Serial_Prefix-gsxaxmcyynqlhycbfcuuibvewuzt/Serial_Prefix.pch -c /Users/sathish/Desktop/Archive/Serial/Classes/UIDevice+serialNumber.m -o /Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/UIDevice+serialNumber.o0#
+
+CCompileC build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/main.o /Users/pandiansiva/Downloads/Serial/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315643593.250143
+e315643593.305470
+r1
+xCompileC
+xbuild/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/main.o
+x/Users/pandiansiva/Downloads/Serial/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/pandiansiva/Downloads/Serial/main.m315643593#315643593#0(0"0(0#0#42"/Users/pandiansiva/Downloads/Serial/main.m8615790080#1848"    cd /Users/pandiansiva/Downloads/Serial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-generated-files.hmap -I/Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-own-target-headers.hmap -I/Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-all-target-headers.hmap -iquote /Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-project-headers.hmap -F/Users/pandiansiva/Downloads/Serial/build/Debug-iphonesimulator -I/Users/pandiansiva/Downloads/Serial/build/Debug-iphonesimulator/include -I/Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/DerivedSources/i386 -I/Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/DerivedSources -include /var/folders/zC/zCQVdXlwH7ypYHgEP2pOA++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Serial_Prefix-eqfngcmkowfuwucvizdakgfpvlpf/Serial_Prefix.pch -c /Users/pandiansiva/Downloads/Serial/main.m -o /Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/main.o0#
+
+CCompileC build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/main.o /Users/satheesan/Desktop/Serial/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311059493.179763
+e311059493.551934
+r1
+xCompileC
+xbuild/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/main.o
+x/Users/satheesan/Desktop/Serial/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/satheesan/Desktop/Serial/main.m311059493#311059493#0(0"0(0#0#38"/Users/satheesan/Desktop/Serial/main.m8600375872#1804"    cd /Users/satheesan/Desktop/Serial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-generated-files.hmap -I/Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-own-target-headers.hmap -I/Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-all-target-headers.hmap -iquote /Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-project-headers.hmap -F/Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator -I/Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator/include -I/Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/DerivedSources/i386 -I/Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/DerivedSources -include /var/folders/jS/jSzbYRTOEyC27JIN3Dj+sE+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Serial_Prefix-dmkbujqrsjwevwcjpnmhfytbfkve/Serial_Prefix.pch -c /Users/satheesan/Desktop/Serial/main.m -o /Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/main.o0#
+
+CCompileC build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/main.o /Users/sathish/Desktop/Archive/Serial/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320508805.543057
+e320508805.676387
+r1
+xCompileC
+xbuild/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/main.o
+x/Users/sathish/Desktop/Archive/Serial/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/sathish/Desktop/Archive/Serial/main.m320508805#320508805#0(0"0(0#0#44"/Users/sathish/Desktop/Archive/Serial/main.m8619915872#1883"    cd /Users/sathish/Desktop/Archive/Serial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-generated-files.hmap -I/Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-own-target-headers.hmap -I/Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-all-target-headers.hmap -iquote /Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-project-headers.hmap -F/Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator -I/Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator/include -I/Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/DerivedSources/i386 -I/Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/DerivedSources -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Serial_Prefix-gsxaxmcyynqlhycbfcuuibvewuzt/Serial_Prefix.pch -c /Users/sathish/Desktop/Archive/Serial/main.m -o /Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pandiansiva/Downloads/Serial/MainWindow.xib
+r0
+
+CCompileXIB /Users/pandiansiva/Downloads/Serial/SerialViewController.xib
+r0
+
+CCompileXIB /Users/satheesan/Desktop/Serial/MainWindow.xib
+s311059485.882044
+e311059488.088335
+r1
+xCompileXIB
+x/Users/satheesan/Desktop/Serial/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib311059485#311059488#0(0"0(0#0#46"/Users/satheesan/Desktop/Serial/MainWindow.xib8609127328#548"    cd /Users/satheesan/Desktop/Serial    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator/Serial.app/MainWindow.nib /Users/satheesan/Desktop/Serial/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/satheesan/Desktop/Serial/SerialViewController.xib
+s311063574.859988
+e311063576.530439
+r1
+xCompileXIB
+x/Users/satheesan/Desktop/Serial/SerialViewController.xib
+lSLF07#2@35"CompileXIB SerialViewController.xib311063574#311063576#0(0"0(0#0#56"/Users/satheesan/Desktop/Serial/SerialViewController.xib8619259072#568"    cd /Users/satheesan/Desktop/Serial    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator/Serial.app/SerialViewController.nib /Users/satheesan/Desktop/Serial/SerialViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/sathish/Desktop/Archive/Serial/MainWindow.xib
+r0
+
+CCompileXIB /Users/sathish/Desktop/Archive/Serial/SerialViewController.xib
+r0
+
+CGenerateDSYMFile /Users/pandiansiva/Downloads/Serial/build/Debug-iphonesimulator/Serial.app.dSYM /Users/pandiansiva/Downloads/Serial/build/Debug-iphonesimulator/Serial.app/Serial
+s315643593.342101
+e315643593.354110
+r1
+xGenerateDSYMFile
+x/Users/pandiansiva/Downloads/Serial/build/Debug-iphonesimulator/Serial.app.dSYM
+x/Users/pandiansiva/Downloads/Serial/build/Debug-iphonesimulator/Serial.app/Serial
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/Serial.app.dSYM build/Debug-iphonesimulator/Serial.app/Serial315643593#315643593#0(0"0(0#0#81"/Users/pandiansiva/Downloads/Serial/build/Debug-iphonesimulator/Serial.app/Serial8614516768#371"    cd /Users/pandiansiva/Downloads/Serial    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pandiansiva/Downloads/Serial/build/Debug-iphonesimulator/Serial.app/Serial -o /Users/pandiansiva/Downloads/Serial/build/Debug-iphonesimulator/Serial.app.dSYM0#
+
+CGenerateDSYMFile /Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator/Serial.app.dSYM /Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator/Serial.app/Serial
+s311063507.653548
+e311063507.716501
+r1
+xGenerateDSYMFile
+x/Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator/Serial.app.dSYM
+x/Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator/Serial.app/Serial
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/Serial.app.dSYM build/Debug-iphonesimulator/Serial.app/Serial311063507#311063507#0(0"0(0#0#77"/Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator/Serial.app/Serial8618752896#359"    cd /Users/satheesan/Desktop/Serial    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator/Serial.app/Serial -o /Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator/Serial.app.dSYM0#
+
+CGenerateDSYMFile /Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator/Serial.app.dSYM /Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator/Serial.app/Serial
+s320508805.955743
+e320508806.023590
+r1
+xGenerateDSYMFile
+x/Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator/Serial.app.dSYM
+x/Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator/Serial.app/Serial
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/Serial.app.dSYM build/Debug-iphonesimulator/Serial.app/Serial320508805#320508806#0(0"0(0#0#83"/Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator/Serial.app/Serial8627088288#377"    cd /Users/sathish/Desktop/Archive/Serial    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator/Serial.app/Serial -o /Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator/Serial.app.dSYM0#
+
+CLd /Users/pandiansiva/Downloads/Serial/build/Debug-iphonesimulator/Serial.app/Serial normal i386
+s315643593.324255
+e315643593.342012
+r1
+xLd
+x/Users/pandiansiva/Downloads/Serial/build/Debug-iphonesimulator/Serial.app/Serial
+xnormal
+xi386
+lSLF07#2@86"Link /Users/pandiansiva/Downloads/Serial/build/Debug-iphonesimulator/Serial.app/Serial315643593#315643593#0(0"0(0#0#0"8610201120#880"    cd /Users/pandiansiva/Downloads/Serial    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/pandiansiva/Downloads/Serial/build/Debug-iphonesimulator -F/Users/pandiansiva/Downloads/Serial/build/Debug-iphonesimulator -filelist /Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/Serial.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/pandiansiva/Downloads/Serial/build/Debug-iphonesimulator/Serial.app/Serial0#
+
+CLd /Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator/Serial.app/Serial normal i386
+s311063507.466234
+e311063507.653420
+r1
+xLd
+x/Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator/Serial.app/Serial
+xnormal
+xi386
+lSLF07#2@82"Link /Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator/Serial.app/Serial311063507#311063507#0(0"0(0#0#0"8623354112#860"    cd /Users/satheesan/Desktop/Serial    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator -F/Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator -filelist /Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/Serial.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator/Serial.app/Serial0#
+
+CLd /Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator/Serial.app/Serial normal i386
+s320508805.805286
+e320508805.955652
+r1
+xLd
+x/Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator/Serial.app/Serial
+xnormal
+xi386
+lSLF07#2@88"Link /Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator/Serial.app/Serial320508805#320508805#0(0"0(0#0#0"8627673728#890"    cd /Users/sathish/Desktop/Archive/Serial    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator -F/Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator -filelist /Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Objects-normal/i386/Serial.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator/Serial.app/Serial0#
+
+CProcessInfoPlistFile /Users/pandiansiva/Downloads/Serial/build/Debug-iphonesimulator/Serial.app/Info.plist Serial-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator/Serial.app/Info.plist Serial-Info.plist
+s311059485.859794
+e311059485.881920
+r1
+xProcessInfoPlistFile
+x/Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator/Serial.app/Info.plist
+xSerial-Info.plist
+lSLF07#2@25"Process Serial-Info.plist311059485#311059485#0(0"0(0#0#49"/Users/satheesan/Desktop/Serial/Serial-Info.plist8612659552#455"    cd /Users/satheesan/Desktop/Serial    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Serial-Info.plist -genpkginfo /Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator/Serial.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator/Serial.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator/Serial.app/Info.plist Serial-Info.plist
+r0
+
+CProcessPCH /var/folders/jS/jSzbYRTOEyC27JIN3Dj+sE+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Serial_Prefix-dmkbujqrsjwevwcjpnmhfytbfkve/Serial_Prefix.pch.gch Serial_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s311059488.088442
+e311059493.179551
+r1
+xProcessPCH
+x/var/folders/jS/jSzbYRTOEyC27JIN3Dj+sE+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Serial_Prefix-dmkbujqrsjwevwcjpnmhfytbfkve/Serial_Prefix.pch.gch
+xSerial_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Serial_Prefix.pch311059488#311059493#0(0"0(0#0#49"/Users/satheesan/Desktop/Serial/Serial_Prefix.pch8612515840#1704"    cd /Users/satheesan/Desktop/Serial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-generated-files.hmap -I/Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-own-target-headers.hmap -I/Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-all-target-headers.hmap -iquote /Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-project-headers.hmap -F/Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator -I/Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator/include -I/Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/DerivedSources/i386 -I/Users/satheesan/Desktop/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/DerivedSources -c /Users/satheesan/Desktop/Serial/Serial_Prefix.pch -o /var/folders/jS/jSzbYRTOEyC27JIN3Dj+sE+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Serial_Prefix-dmkbujqrsjwevwcjpnmhfytbfkve/Serial_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Serial_Prefix-gsxaxmcyynqlhycbfcuuibvewuzt/Serial_Prefix.pch.gch Serial_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s320508804.010152
+e320508805.542890
+r1
+xProcessPCH
+x/var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Serial_Prefix-gsxaxmcyynqlhycbfcuuibvewuzt/Serial_Prefix.pch.gch
+xSerial_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Serial_Prefix.pch320508804#320508805#0(0"0(0#0#55"/Users/sathish/Desktop/Archive/Serial/Serial_Prefix.pch8627796864#1777"    cd /Users/sathish/Desktop/Archive/Serial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-generated-files.hmap -I/Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-own-target-headers.hmap -I/Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-all-target-headers.hmap -iquote /Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-project-headers.hmap -F/Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator -I/Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator/include -I/Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/DerivedSources/i386 -I/Users/sathish/Desktop/Archive/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/DerivedSources -c /Users/sathish/Desktop/Archive/Serial/Serial_Prefix.pch -o /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Serial_Prefix-gsxaxmcyynqlhycbfcuuibvewuzt/Serial_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/zC/zCQVdXlwH7ypYHgEP2pOA++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Serial_Prefix-eqfngcmkowfuwucvizdakgfpvlpf/Serial_Prefix.pch.gch Serial_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s315643592.722672
+e315643593.250020
+r1
+xProcessPCH
+x/var/folders/zC/zCQVdXlwH7ypYHgEP2pOA++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Serial_Prefix-eqfngcmkowfuwucvizdakgfpvlpf/Serial_Prefix.pch.gch
+xSerial_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Serial_Prefix.pch315643592#315643593#0(0"0(0#0#53"/Users/pandiansiva/Downloads/Serial/Serial_Prefix.pch8614573376#1744"    cd /Users/pandiansiva/Downloads/Serial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-generated-files.hmap -I/Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-own-target-headers.hmap -I/Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-all-target-headers.hmap -iquote /Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/Serial-project-headers.hmap -F/Users/pandiansiva/Downloads/Serial/build/Debug-iphonesimulator -I/Users/pandiansiva/Downloads/Serial/build/Debug-iphonesimulator/include -I/Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/DerivedSources/i386 -I/Users/pandiansiva/Downloads/Serial/build/Serial.build/Debug-iphonesimulator/Serial.build/DerivedSources -c /Users/pandiansiva/Downloads/Serial/Serial_Prefix.pch -o /var/folders/zC/zCQVdXlwH7ypYHgEP2pOA++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Serial_Prefix-eqfngcmkowfuwucvizdakgfpvlpf/Serial_Prefix.pch.gch0#
+
+CTouch /Users/pandiansiva/Downloads/Serial/build/Debug-iphonesimulator/Serial.app
+s315643593.354185
+e315643593.356172
+r1
+xTouch
+x/Users/pandiansiva/Downloads/Serial/build/Debug-iphonesimulator/Serial.app
+lSLF07#2@80"Touch /Users/pandiansiva/Downloads/Serial/build/Debug-iphonesimulator/Serial.app315643593#315643593#0(0"0(0#0#0"8614321056#271"    cd /Users/pandiansiva/Downloads/Serial    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pandiansiva/Downloads/Serial/build/Debug-iphonesimulator/Serial.app0#
+
+CTouch /Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator/Serial.app
+s311063576.531256
+e311063576.534230
+r1
+xTouch
+x/Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator/Serial.app
+lSLF07#2@76"Touch /Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator/Serial.app311063576#311063576#0(0"0(0#0#0"8615253376#263"    cd /Users/satheesan/Desktop/Serial    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/satheesan/Desktop/Serial/build/Debug-iphonesimulator/Serial.app0#
+
+CTouch /Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator/Serial.app
+s320508806.023686
+e320508806.031483
+r1
+xTouch
+x/Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator/Serial.app
+lSLF07#2@82"Touch /Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator/Serial.app320508806#320508806#0(0"0(0#0#0"8626728000#275"    cd /Users/sathish/Desktop/Archive/Serial    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sathish/Desktop/Archive/Serial/build/Debug-iphonesimulator/Serial.app0#
+
